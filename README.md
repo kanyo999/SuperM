@@ -23,7 +23,8 @@
 
 ## 動画デモ
 
-[![ゲームプレイ動画](https://img.youtube.com/vi/XoGaLR0C4og/0.jpg)](https://youtu.be/XoGaLR0C4og)
+https://github.com/user-attachments/assets/d8fc53e8-3d8c-4430-b3cf-a39430b4e0da
+
 
 ※ 画像をクリックするとYouTubeで動画再生が始まります。
 
